@@ -11,3 +11,4 @@ The Brood War API (BWAPI) and Broodwar Terrain Analyzer 2 (BWTA2) projects are u
 
 Although the above projects are heavily reliant on C++ for their code, it is intended that this project will be (mainly) written in F# for its conciseness, metaprogramming capabilities, and its direct connection to the .NET Framework; which allows it to be readily interfaced with other languages like C#, Visual Basic, Visual C++, etc. 
 
+However, the most important benefit from using a .NET language: is that it allows Linux, Mac, and Windows users to all participate in the development and utilization of the code.
