@@ -1,0 +1,13 @@
+Liquid-XI is a project intended to create a more fluid 'Bot', which uses StarCraft Brood War as a general test-bed for development.
+
+The main intent behind this bot: is to create a so-called 'Self-Aware' AI. One that is able to 'observe' its own actions and improve upon them by using a modified ODA (Observe Decide Act) Loop. Eventually, however: it is hoped that this system will be able to Design/Innovate new strategies, tactics, and other behaviors.
+
+From what I've seen in the world of AI, the architecture for this Bot will likely appear very novel. Although it is really more a set of methods derived from mathematical models/abstractions of various Problem Solving Strategies and Design methods.
+
+
+The project will likely implement some code from David Churchill's UAlbertaBot. 
+
+The Brood War API (BWAPI) and Broodwar Terrain Analyzer 2 (BWTA2) projects are used as the main interfaces to the StarCraft program.
+
+Although the above projects are heavily reliant on C++ for their code, it is intended that this project will be (mainly) written in F# for its conciseness, metaprogramming capabilities, and its direct connection to the .NET Framework; which allows it to be readily interfaced with other languages like C#, Visual Basic, Visual C++, etc. 
+
